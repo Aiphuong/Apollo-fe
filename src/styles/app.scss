@@ -1,0 +1,11 @@
+@import "~antd/dist/antd.css";
+@import "swiper/swiper.min.css";
+@import "swiper/components/pagination/pagination.min.css";
+@import url("https://fonts.googleapis.com/css?family=Lobster");
+
+//components
+@import "./components/model";
+
+//pages
+@import "./pages/signIn";
+@import "./pages/home";
